@@ -1,5 +1,3 @@
-   -- Entrega S16 · Parte A — Grupo 8
-   -- Los cuatro reportes del proyecto sobre el esquema "biblioteca".
 
    SET search_path TO biblioteca;
 
